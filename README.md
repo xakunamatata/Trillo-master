@@ -1,2 +1,2 @@
-# Trillo-master
-Udemy Advanced CSS Project 2
+# FRONT-END-trillo
+advanced css with flexbox layouts
